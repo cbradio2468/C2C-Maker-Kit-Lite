@@ -2,8 +2,6 @@
 
 > **"$100 and a Dream"** - Build applications that serve those who need them most
 
-![C2C Banner](./public/images/banner.png)
-
 ## 🚨 IMPORTANT: Demo Mode Notice
 
 **This application is currently running in DEMO MODE** with mock data and placeholder credentials. The app will work for exploration and learning, but you'll need to set up real services to build your own application.
