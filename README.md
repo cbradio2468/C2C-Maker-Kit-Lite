@@ -313,9 +313,18 @@ Please read:
 - [CONTRIBUTING.md](./.github/CONTRIBUTING.md)
 - [CODE_OF_CONDUCT.md](./.github/CODE_OF_CONDUCT.md)
 
-## 📄 License
+## 🛡️ Intellectual Property & License Notice
 
-MIT License - Build freely, serve generously.
+© 2025 Catalyst To Courage (C2C). All rights reserved.
+This repository and its contents — including but not limited to the C2C Project Brief Template, documentation, architecture frameworks, and educational materials — are protected under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+
+✅ You may read, learn from, and share this material with proper attribution.
+❌ You may not use it for commercial purposes, modify it, or create derivative works.
+
+For commercial licensing, collaboration, or educational use inquiries, please contact:
+Chris Ballweg – Catalyst To Courage (C2C)
+📧 [catalysttocourage@gmail.com]
+🌐 https://catalysttocourage.com
 
 ## 🆘 Get Help
 
